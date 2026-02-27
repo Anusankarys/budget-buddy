@@ -2,27 +2,30 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# [Budget Buddy] 🎯
 
-## Basic Details
 
-### Team Name: [Name]
+
+### Team Name: [EATEAM]
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [ELIZABETH REJI] - [SNGCE,KADAYIRIPPU]
+- Member 2: [ANUSANKARY S] - [SNGCE,KADAYIRIPPU]
 
 ### Hosted Project Link
 [mention your project hosted link here]
 
 ### Project Description
 [2-3 lines about what your project does]
+[BUDGET BUDDY helps to manage daily expenditure efficiently and to avoid over spending. It helps to finf financial stability and manage expense wisely.]
 
 ### The Problem statement
 [What problem are you solving?]
+[Over expenditure]
 
 ### The Solution
 [How are you solving it?]
+[Tracking daily expenses enabiling financial awareness]
 
 ---
 
@@ -31,23 +34,25 @@
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+- Languages used: [html,java]
+- Frameworks used: [java]
+- Libraries used: [css, java]
+- Tools used: [ VS Code, Git]
 
 **For Hardware:**
 - Main components: [List main components]
+- Main components: [Authetification , Mnagement]
 - Specifications: [Technical specifications]
 - Tools required: [List tools needed]
+- Tools required: [vs code,java]
 
 ---
 
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
+- Feature 1: [Easy to use]
+- Feature 2: [Efficient]
 - Feature 3: [Description]
 - Feature 4: [Description]
 

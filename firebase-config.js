@@ -1,5 +1,12 @@
 import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/analytics";
+import { initializeApp } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js";
+import { getAuth,
+         createUserWithEmailAndPasword,
+         signInWithEmailAndPassword,
+         onAuthstateChanged,
+         signOut
+} from "https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js";
 
 
 const firebaseConfig = {
